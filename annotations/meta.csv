@@ -1,0 +1,122 @@
+file,id,label,role,trial,speaker,gender
+trial_lie_001.mp4,lie_001,lie,defendant,T02,S02,F
+trial_lie_002.mp4,lie_002,lie,defendant,T02,S02,F
+trial_lie_003.mp4,lie_003,lie,defendant,T02,S02,F
+trial_lie_004.mp4,lie_004,lie,defendant,T02,S02,F
+trial_lie_005.mp4,lie_005,lie,defendant,T02,S02,F
+trial_lie_006.mp4,lie_006,lie,defendant,T02,S02,F
+trial_lie_007.mp4,lie_007,lie,defendant,T03,S03,F
+trial_lie_008.mp4,lie_008,lie,defendant,T03,S03,F
+trial_lie_009.mp4,lie_009,lie,defendant,T03,S03,F
+trial_lie_010.mp4,lie_010,lie,defendant,T03,S03,F
+trial_lie_011.mp4,lie_011,lie,defendant,T03,S03,F
+trial_lie_012.mp4,lie_012,lie,defendant,T03,S03,F
+trial_lie_013.mp4,lie_013,lie,defendant,T03,S03,F
+trial_lie_014.mp4,lie_014,lie,defendant,T17,S29,F
+trial_lie_015.mp4,lie_015,lie,defendant,T17,S29,F
+trial_lie_016.mp4,lie_016,lie,defendant,T17,S29,F
+trial_lie_017.mp4,lie_017,lie,defendant,T17,S29,F
+trial_lie_018.mp4,lie_018,lie,defendant,T17,S29,F
+trial_lie_019.mp4,lie_019,lie,defendant,T17,S29,F
+trial_lie_020.mp4,lie_020,lie,defendant,T17,S29,F
+trial_lie_021.mp4,lie_021,lie,defendant,T17,S29,F
+trial_lie_022.mp4,lie_022,lie,defendant,T17,S29,F
+trial_lie_023.mp4,lie_023,lie,defendant,T17,S29,F
+trial_lie_024.mp4,lie_024,lie,defendant,T17,S29,F
+trial_lie_025.mp4,lie_025,lie,defendant,T17,S29,F
+trial_lie_026.mp4,lie_026,lie,defendant,T17,S29,F
+trial_lie_027.mp4,lie_027,lie,defendant,T17,S29,F
+trial_lie_028.mp4,lie_028,lie,defendant,T17,S29,F
+trial_lie_029.mp4,lie_029,lie,defendant,T17,S29,F
+trial_lie_030.mp4,lie_030,lie,defendant,T17,S29,F
+trial_lie_031.mp4,lie_031,lie,defendant,T17,S29,F
+trial_lie_032.mp4,lie_032,lie,defendant,T11,S18,F
+trial_lie_033.mp4,lie_033,lie,defendant,T16,S28,M
+trial_lie_034.mp4,lie_034,lie,defense witness,T16,S23,F
+trial_lie_035.mp4,lie_035,lie,defendant,T26,S45,F
+trial_lie_036.mp4,lie_036,lie,defendant,T22,S35,F
+trial_lie_037.mp4,lie_037,lie,defendant,T10,S16,F
+trial_lie_038.mp4,lie_038,lie,defendant,T10,S16,F
+trial_lie_039.mp4,lie_039,lie,defendant,T10,S16,F
+trial_lie_040.mp4,lie_040,lie,defendant,T10,S16,F
+trial_lie_041.mp4,lie_041,lie,police spokesman,T29,S19,M
+trial_lie_042.mp4,lie_042,lie,police spokesman,T29,S20,M
+trial_lie_043.mp4,lie_043,lie,police spokesman,T29,S21,M
+trial_lie_044.mp4,lie_044,lie,mayor,T12,S43,M
+trial_lie_045.mp4,lie_045,lie,kelly burke,T19,S30,F
+trial_lie_046.mp4,lie_046,lie,officer witness of prosecution,T06,S44,F
+trial_lie_047.mp4,lie_047,lie,officer witness of prosecution,T06,S44,F
+trial_lie_048.mp4,lie_048,lie,officer witness of prosecution,T06,S44,F
+trial_lie_049.mp4,lie_049,lie,officer witness of prosecution,T06,S44,F
+trial_lie_050.mp4,lie_050,lie,defendant,T22,S35,F
+trial_lie_051.mp4,lie_051,lie,lawyer,T22,S17,M
+trial_lie_052.mp4,lie_052,lie,defendant's statement,T30,S54,M
+trial_lie_053.mp4,lie_053,lie,defendant,T25,S42,M
+trial_lie_054.mp4,lie_054,lie,defense witness,T17,S04,F
+trial_lie_055.mp4,lie_055,lie,defense witness,T17,S04,F
+trial_lie_056.mp4,lie_056,lie,defense witness,T17,S04,F
+trial_lie_057.mp4,lie_057,lie,defense witness,T17,S04,F
+trial_lie_058.mp4,lie_058,lie,defendant,T21,S33,M
+trial_lie_059.mp4,lie_059,lie,defendant,T05,S13,M
+trial_lie_060.mp4,lie_060,lie,defendant,T05,S14,M
+trial_lie_061.mp4,lie_061,lie,defendant,T05,S15,M
+trial_truth_001.mp4,truth_001,truth,lawyer,T32,S26,F
+trial_truth_002.mp4,truth_002,truth,lawyer,T32,S27,F
+trial_truth_003.mp4,truth_003,truth,defendant,T03,S03,F
+trial_truth_004.mp4,truth_004,truth,defendant,T03,S03,F
+trial_truth_005.mp4,truth_005,truth,defendant,T03,S03,F
+trial_truth_006.mp4,truth_006,truth,defendant,T03,S03,F
+trial_truth_007.mp4,truth_007,truth,defendant,T03,S03,F
+trial_truth_008.mp4,truth_008,truth,witness,T17,S05,M
+trial_truth_009.mp4,truth_009,truth,witness,T17,S05,M
+trial_truth_010.mp4,truth_010,truth,witness,T17,S05,M
+trial_truth_011.mp4,truth_011,truth,witness,T17,S05,M
+trial_truth_012.mp4,truth_012,truth,witness,T17,S05,M
+trial_truth_013.mp4,truth_013,truth,witness,T17,S05,M
+trial_truth_014.mp4,truth_014,truth,witness,T17,S05,M
+trial_truth_015.mp4,truth_015,truth,witness,T17,S05,M
+trial_truth_016.mp4,truth_016,truth,defendant,T14,S22,M
+trial_truth_017.mp4,truth_017,truth,defendant,T14,S22,M
+trial_truth_018.mp4,truth_018,truth,defendant,T09,S11,M
+trial_truth_019.mp4,truth_019,truth,defendant,T09,S11,M
+trial_truth_020.mp4,truth_020,truth,defendant,T31,S56,M
+trial_truth_021.mp4,truth_021,truth,defendant,T28,S51,M
+trial_truth_022.mp4,truth_022,truth,defendant,T24,S36,M
+trial_truth_023.mp4,truth_023,truth,defendant,T01,S01,M
+trial_truth_024.mp4,truth_024,truth,defendant,T20,S31,M
+trial_truth_025.mp4,truth_025,truth,defendant,T20,S31,M
+trial_truth_026.mp4,truth_026,truth,defendant,T26,S45,F
+trial_truth_027.mp4,truth_027,truth,prosecutor witness,T23,S34,F
+trial_truth_028.mp4,truth_028,truth,witness,T11,S55,M
+trial_truth_029.mp4,truth_029,truth,witness,T04,S46,F
+trial_truth_030.mp4,truth_030,truth,witness,T15,S07,M
+trial_truth_031.mp4,truth_031,truth,witness,T04,S46,F
+trial_truth_032.mp4,truth_032,truth,witness,T04,S48,M
+trial_truth_033.mp4,truth_033,truth,witness,T04,S47,F
+trial_truth_034.mp4,truth_034,truth,witness,T04,S47,F
+trial_truth_035.mp4,truth_035,truth,witness,T04,S49,M
+trial_truth_036.mp4,truth_036,truth,witness,T04,S49,M
+trial_truth_037.mp4,truth_037,truth,witness,T18,S53,F
+trial_truth_038.mp4,truth_038,truth,witness,T04,S50,M
+trial_truth_039.mp4,truth_039,truth,witness,T16,S24,F
+trial_truth_040.mp4,truth_040,truth,witness,T16,S25,M
+trial_truth_041.mp4,truth_041,truth,defendant,T15,S08,M
+trial_truth_042.mp4,truth_042,truth,witness,T15,S09,M
+trial_truth_043.mp4,truth_043,truth,witness,T15,S10,M
+trial_truth_044.mp4,truth_044,truth,witness,T08,S38,M
+trial_truth_045.mp4,truth_045,truth,witness,T08,S37,F
+trial_truth_046.mp4,truth_046,truth,witness,T08,S39,M
+trial_truth_047.mp4,truth_047,truth,witness,T08,S40,M
+trial_truth_048.mp4,truth_048,truth,witness,T08,S41,M
+trial_truth_049.mp4,truth_049,truth,witness,T26,S06,M
+trial_truth_050.mp4,truth_050,truth,witness,T07,S52,M
+trial_truth_051.mp4,truth_051,truth,victim,T27,S32,F
+trial_truth_052.mp4,truth_052,truth,witness,T13,S12,F
+trial_truth_053.mp4,truth_053,truth,defendant,T10,S16,F
+trial_truth_054.mp4,truth_054,truth,defendant,T17,S29,F
+trial_truth_055.mp4,truth_055,truth,defendant,T17,S29,F
+trial_truth_056.mp4,truth_056,truth,defendant,T17,S29,F
+trial_truth_057.mp4,truth_057,truth,defendant,T02,S02,F
+trial_truth_058.mp4,truth_058,truth,defendant,T02,S02,F
+trial_truth_059.mp4,truth_059,truth,defendant,T02,S02,F
+trial_truth_060.mp4,truth_060,truth,defendant,T10,S16,F

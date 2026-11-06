@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this code or the annotations, please cite the paper."
+title: "Does the Voice Reveal the Lie or the Liar? Speaker, Gender, Role and Recording Confounds in Acoustic Deception Detection on the Real-Life Trial Dataset"
+authors:
+  - family-names: Alsaffar
+    given-names: Ali A.
+    affiliation: "College of Administration and Economics, University of Mosul, Iraq"
+    orcid: "https://orcid.org/0009-0005-0918-893X"
+year: 2026
+repository-code: "https://github.com/AliAlsaffarMosulUniversity/rlt-voice-confounds"
+license: MIT

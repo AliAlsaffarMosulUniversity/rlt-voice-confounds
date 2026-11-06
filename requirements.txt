@@ -1,0 +1,11 @@
+numpy>=2.0
+pandas>=2.2
+scikit-learn>=1.5
+scipy
+joblib
+matplotlib
+librosa>=0.10
+praat-parselmouth>=0.4
+opensmile>=2.5
+resemblyzer==0.1.4
+torch
