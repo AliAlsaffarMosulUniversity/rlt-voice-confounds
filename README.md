@@ -19,6 +19,7 @@ Code, anonymised annotations and full results for the paper:
 
 - The same acoustic features identify the speaker of a held-out clip with 90.0% accuracy (98.8% with a pretrained GE2E speaker encoder).
 - Features from non-speech (background) frames alone identify the source trial with 73.8% accuracy.
+- eGeMAPS adds ranking information beyond gender on all clips (conditional permutation AUC p = 0.010–0.035), but none among non-witness clips (p ≥ 0.40): the residual signal is witness role.
 - Label-permutation tests are significant under random folds (p = 0.007) but not under speaker- or trial-grouped folds after gender control (p ≥ 0.47).
 
 ## Repository layout
@@ -54,6 +55,7 @@ python code/validate_annot.py resemblyzer   # annotation validation
 python code/perm.py 150        # permutation tests
 python code/subsets.py
 python code/extended.py && python code/extended2.py
+python code/incremental.py && python code/incremental_role.py   # eGeMAPS beyond gender / role
 python code/analysis.py        # bootstrap CIs and figures
 ```
 
